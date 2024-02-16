@@ -7,7 +7,7 @@
 <br/>
 
 ## Tech Stack
-### 1. Webpack (for HMR, bundles & chunks)
+### 1. Webpack (for HMR, bundles & chunks, Webpack makes development & build easy and removes dead code resulting in better performance) 
 ### 2. ReactJS (For SPA)
 ### 3. Typescript (For type checking)
 ### 4. Tailwind CSS 
