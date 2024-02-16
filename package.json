@@ -32,8 +32,12 @@
     "webpack-dev-server": "^5.0.1"
   },
   "dependencies": {
+    "@vidstack/player": "^0.13.3",
     "@vidstack/player-react": "^1.6.0",
+    "@vidstack/react": "^0.6.14",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-player": "^2.14.1"
   }
 }
