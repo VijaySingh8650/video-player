@@ -17,7 +17,7 @@
 
 
 <img src="public/images/view-1.png" alt="Task"/>
-
+<br/>
 <img src="public/images/view-2.png" alt="Task"/>
 
 #### Thank you
